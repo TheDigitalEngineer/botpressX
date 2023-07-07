@@ -1,0 +1,8 @@
+.bpw-header-title {
+    color: red; /* Change color to red */
+}
+
+.bpw-from-bot .bpw-chat-bubble .bpw-chat-bubble-content {
+    color: green; /* Change bot message color to green */
+    background-color: yellow; /* Change bot message background to yellow */
+}
